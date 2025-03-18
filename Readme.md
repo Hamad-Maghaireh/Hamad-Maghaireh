@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm a Computer Engineering graduate from the University of Jordan with an excellent GPA, passionate about data science, data analysis, and machine learning. I enjoy working with data, uncovering patterns, and building models that solve real-world problems.<br>
-Currently, I’m an intern at Tahaluf Al Emarat Technical Solutions, gaining hands-on experience in Data Science and Machine Learning. I'm excited to learn and expand my skills, always seeking ways to make data more meaningful and impactful.
+I’m a Computer Engineering graduate from the University of Jordan, where I earned an excellent GPA. My passion lies in data science, data analysis, and machine learning, particularly in using data to uncover patterns and build models that address real-world problems.
+
+I completed an internship at Tahaluf Al Emarat Technical Solutions, where I gained hands-on experience in Data Science and Machine Learning. This opportunity allowed me to apply my skills to real-world projects, further strengthening my expertise. I’m eager to continue learning and exploring how data can drive meaningful solutions.
 
 
 ## 🌐 Socials:
